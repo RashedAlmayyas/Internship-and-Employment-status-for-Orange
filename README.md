@@ -28,7 +28,6 @@ Web site Tracking for the Internship and Employment status for Orange coding Aca
 17. Sign Out  ✅
 
 ## Functionalities for Job Cotch
-![image](https://user-images.githubusercontent.com/108932239/196358533-0adedc50-8932-4e33-913e-cfd7bdc83538.png)
 
 1. Login ✅
 2. Verify the student's account 🌀
